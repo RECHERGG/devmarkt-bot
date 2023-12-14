@@ -1,0 +1,140 @@
+2023-12-14 16:17:49.864  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:17:50.856  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 16:17:51.138  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 16:17:51.444  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 16:17:51.445  INFO  --- [           main] de.rechergg.DevCordBot                   : Eingeloggt als null.
+2023-12-14 16:19:13.334  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:19:14.171  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 16:19:14.499  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 16:19:14.800  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 16:19:14.801  INFO  --- [           main] de.rechergg.DevCordBot                   : Eingeloggt als DevCord.
+2023-12-14 16:19:45.071  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:19:45.865  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 16:19:46.201  INFO  --- [nWS-WriteThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 16:19:46.490  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 16:19:46.491  INFO  --- [           main] de.rechergg.DevCordBot                   : Eingeloggt als "DevCord".
+2023-12-14 16:36:36.034  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:36:36.987  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 16:36:37.274  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 16:36:37.537  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 16:36:37.538  INFO  --- [           main] de.rechergg.DevCordBot                   : Logged in as "DevCord".
+2023-12-14 16:36:49.382  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:36:50.304  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 16:36:50.645  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 16:36:51.009  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 16:36:51.010  INFO  --- [           main] de.rechergg.DevCordBot                   : Logged in as "DevCord".
+2023-12-14 16:37:22.017  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:38:23.029  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:38:23.690 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {}
+2023-12-14 16:38:23.690 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:38:41.554  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:38:42.185 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0}
+2023-12-14 16:38:42.185 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:40:16.045  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:40:16.711 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0}
+2023-12-14 16:40:16.712 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:44:38.034  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:44:38.678 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0}
+2023-12-14 16:44:38.679 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:45:39.792  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:45:40.411 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {}
+2023-12-14 16:45:40.412 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:46:05.059  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:46:05.724 ERROR  --- [           main] de.rechergg.DevCordBot                   : a
+2023-12-14 16:46:05.729 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {}
+2023-12-14 16:46:05.729 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:46:25.974  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:46:26.640 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:46:26.641 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:47:26.433  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:47:27.113 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldn't log in. Is the token correct? Current token: a
+2023-12-14 16:47:27.114 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:48:34.325  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:48:35.062 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldn't log in. Is the token correct? Current token: a
+2023-12-14 16:48:35.062 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:50:36.722  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:50:37.423 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldn't log in. Is the token correct? Current token: a
+2023-12-14 16:50:37.424 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception.log
+2023-12-14 16:51:15.317  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:51:15.934 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:51:15.935 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception.log
+2023-12-14 16:51:33.860  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:51:34.500 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:51:34.501 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception.log
+2023-12-14 16:53:32.207  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:53:32.864 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:53:32.865 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception.log
+2023-12-14 16:55:21.429  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:55:22.139 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:55:22.140 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception
+2023-12-14 16:55:49.652  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:55:50.386 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:55:50.387 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:56:06.653  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:56:07.312 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:56:07.313 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception
+2023-12-14 16:57:17.849  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:57:18.492 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:57:18.493 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception
+2023-12-14 16:57:34.934  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:57:35.570 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:57:35.571 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception
+2023-12-14 16:57:51.760  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:57:52.420 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:57:52.422 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception
+2023-12-14 16:58:27.049  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:58:27.753 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: a
+2023-12-14 16:58:27.754 ERROR  --- [           main] de.rechergg.DevCordBot                   : exception
+2023-12-14 16:59:01.173  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:59:01.868 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0}
+2023-12-14 16:59:01.869 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:59:33.731  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:59:34.415 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0}
+2023-12-14 16:59:34.416 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 16:59:57.461  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 16:59:58.180 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {}
+2023-12-14 16:59:58.181 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 17:00:06.500  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:00:07.119 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0} 
+2023-12-14 17:00:07.120 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 17:00:47.250  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:00:49.378 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct? Current token: {0}
+2023-12-14 17:00:49.378 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 17:03:09.617  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:03:10.278 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct?
+2023-12-14 17:03:10.279 ERROR  --- [           main] de.rechergg.DevCordBot                   : Current token: a
+2023-12-14 17:03:10.279 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 17:04:08.268  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:04:08.910 ERROR  --- [           main] de.rechergg.DevCordBot                   : The bot couldnt log in. Is the token correct?
+2023-12-14 17:04:08.910 ERROR  --- [           main] de.rechergg.DevCordBot                   : Current token: a
+2023-12-14 17:04:08.911 ERROR  --- [           main] de.rechergg.DevCordBot                   : Exception is The provided token is invalid! (InvalidTokenException)
+2023-12-14 17:04:43.363  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:04:44.243  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 17:04:44.531  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 17:04:44.781  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 17:04:44.782  INFO  --- [           main] de.rechergg.DevCordBot                   : Logged in as "DevCord".
+2023-12-14 17:13:48.622  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:13:49.843  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 17:13:50.172  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 17:13:50.518  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 17:13:50.520  INFO  --- [           main] de.rechergg.DevCordBot                   : bot.logged.in
+2023-12-14 17:14:14.997  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:14:15.933  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 17:14:16.287  INFO  --- [nWS-WriteThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 17:14:16.553  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 17:14:16.556  INFO  --- [           main] de.rechergg.DevCordBot                   : bot.logged.in
+2023-12-14 17:14:42.492  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:14:43.285  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 17:14:43.586  INFO  --- [nWS-WriteThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 17:14:43.933  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 17:14:43.936  INFO  --- [           main] de.rechergg.DevCordBot                   : bot.logged.in
+2023-12-14 17:15:04.366  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:15:05.227  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 17:15:05.505  INFO  --- [inWS-ReadThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 17:15:05.787  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 17:15:05.791  INFO  --- [           main] de.rechergg.DevCordBot                   : Logged in as "DevCord".
+2023-12-14 17:18:12.693  INFO  --- [           main] de.rechergg.DevCordBot                   : Discord Bot logging in...
+2023-12-14 17:18:13.492  INFO  --- [           main] net.dv8tion.jda.api.JDA                  : Login Successful!
+2023-12-14 17:18:13.798  INFO  --- [nWS-WriteThread] n.d.j.internal.requests.WebSocketClient  : Connected to WebSocket
+2023-12-14 17:18:14.051  INFO  --- [inWS-ReadThread] net.dv8tion.jda.api.JDA                  : Finished Loading!
+2023-12-14 17:18:14.053  INFO  --- [           main] de.rechergg.DevCordBot                   : Logged in as "DevCord".
