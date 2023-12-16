@@ -30,7 +30,7 @@ public class DevCordBot {
         this.logger = LoggerFactory.getLogger(DevCordBot.class);
         this.translations = new Translations();
 
-        String token = System.getenv("DEVCORD_BOT_TOKEN");
+        String token = System.getenv("DEVMARKT_BOT_TOKEN");
         if (token == null) {
             this.logger.error(translations().loggerTranslation().get("token.notfound"));
             System.exit(-1);

@@ -6,6 +6,6 @@ A discord bot for the [devmarkt-backend](https://github.com/devcordde/devmarkt-b
 ## Environment variables
 There are **4** Environment variables required to start the Bot.
 
-- `DEVCORD_BOT_TOKEN`: Your Discord bot token.
+- `DEVMARKT_BOT_TOKEN`: Your Discord bot token.
 - `DEVMARKT_BACKEND_HOST`: The host of the Devmarkt backend.
 - `DEVMARKT_BACKEND_PORT`: The port of the Devmarkt backend.
