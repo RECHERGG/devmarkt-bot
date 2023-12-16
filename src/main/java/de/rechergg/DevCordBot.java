@@ -1,8 +1,12 @@
 package de.rechergg;
 
+import de.rechergg.backend.BackendAPI;
+import de.rechergg.backend.RequestManager;
 import de.rechergg.command.CommandHandler;
 import de.rechergg.command.CommandManager;
 import de.rechergg.i18n.Translations;
+import de.rechergg.util.EnvManager;
+import de.rechergg.util.Health;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.OnlineStatus;
@@ -17,8 +21,10 @@ public class DevCordBot {
 
     private final Logger logger;
     private final Translations translations;
-    private JDA jda;
     private final CommandManager commandManager;
+    private final RequestManager requestManager;
+    private BackendAPI backendAPI;
+    private JDA jda;
 
     public DevCordBot() {
         this.logger = LoggerFactory.getLogger(DevCordBot.class);
@@ -30,7 +36,10 @@ public class DevCordBot {
             System.exit(-1);
         }
 
+        new EnvManager(this);
+
         this.commandManager = new CommandManager(this);
+        this.requestManager = new RequestManager(this);
         login(token);
     }
 
@@ -50,6 +59,22 @@ public class DevCordBot {
         }
 
         this.commandManager.invoke();
+        this.requestManager.invoke();
+
+        this.backendAPI = new BackendAPI(this);
+
+        while (!this.backendAPI.statusController().loopStarted()) {
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+
+        if (this.backendAPI.statusController().status() != Health.UP) {
+            this.logger.warn(translations().loggerTranslation().get("backend.down", this.backendAPI.statusController().status()));
+            System.exit(-1);
+        }
 
         this.logger.info(translations().loggerTranslation().get("bot.logged.in", this.jda.getSelfUser().getName()));
 
@@ -71,5 +96,9 @@ public class DevCordBot {
 
     public CommandManager commandManager() {
         return commandManager;
+    }
+
+    public RequestManager requestManager() {
+        return requestManager;
     }
 }

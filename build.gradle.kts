@@ -21,6 +21,8 @@ java {
 
 dependencies {
     implementation(libs.jda)
+    implementation(libs.gson)
+    implementation(libs.okhttp)
     implementation(libs.slf4j.api)
     implementation(libs.logback.classic)
 }
@@ -34,6 +36,7 @@ tasks {
         mergeServiceFiles()
         relocate("org.slf4j", "devcord-libs.org.slf4j")
         relocate("ch.qos.logback", "devcord-libs.ch.qos.logback")
+        relocate("com.squareup.okhttp3", "devcord-libs.com.squareup.okhttp3")
     }
 }
 

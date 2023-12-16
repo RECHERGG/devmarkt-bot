@@ -2,8 +2,12 @@
 slf4j = "2.0.9"
 logback = "1.4.14"
 jda = "5.0.0-beta.18"
+okhttp = "4.12.0"
+gson = "2.8.9"
 
 [libraries]
 slf4j-api = {group = "org.slf4j", name = "slf4j-api", version.ref = "slf4j" }
 logback-classic = {group = "ch.qos.logback", name = "logback-classic", version.ref = "logback" }
 jda = {group = "net.dv8tion", name = "JDA", version.ref = "jda" }
+okhttp = {group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttp"}
+gson = {group = "com.google.code.gson", name = "gson", version.ref = "gson" }
